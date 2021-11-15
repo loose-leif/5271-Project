@@ -1,0 +1,26 @@
+﻿  CameraColorSettingsViewer.cpp
+  CameraExposureSettingsViewer.cpp
+  CameraSettingsViewer.cpp
+  ImageRenderer.cpp
+  CustomDrawListControl.cpp
+  KinectSettings.cpp
+  KinectWindow.cpp
+  KinectWindowManager.cpp
+  MainWindow.cpp
+  NuiAccelerometerStream.cpp
+  NuiAccelerometerViewer.cpp
+  NuiActivityWatcher.cpp
+  NuiAudioStream.cpp
+  NuiAudioViewer.cpp
+  NuiColorStream.cpp
+  NuiDepthStream.cpp
+  NuiImageBuffer.cpp
+  NuiSkeletonStream.cpp
+  NuiStream.cpp
+  NuiStreamViewer.cpp
+  Generating Code...
+  Compiling...
+  NuiTiltAngleViewer.cpp
+  NuiViewer.cpp
+  Generating Code...
+  KinectExplorer-D2D.vcxproj -> C:\Users\Chase\Documents\Kinect Studio\KinectExplorer-D2D\Debug\KinectExplorer-D2D.exe
