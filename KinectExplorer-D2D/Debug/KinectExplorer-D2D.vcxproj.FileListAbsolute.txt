@@ -1,1 +1,2 @@
 C:\Users\Chase\Documents\Kinect Studio\KinectExplorer-D2D\Debug\KinectExplorer-D2D.exe
+C:\Users\Chase\Documents\GitHub\5271-Project\KinectExplorer-D2D\Debug\KinectExplorer-D2D.exe
